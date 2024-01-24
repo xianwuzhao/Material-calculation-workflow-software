@@ -1,0 +1,10 @@
+import pandas as pd
+import matplotlib as plt
+
+#ith open("C:\Users\Merlin\Desktop\VS Code Python\cv and socket\MIDIS_vasp\test\ABSORPTION.dat", "wb") as f:
+
+dat=pd.read_table("C:\\Users\\Merlin\\Desktop\\VS Code Python\\cv and socket\\MIDIS_vasp\\test\\ABSORPTION.dat",sep="  ",skiprows=0)
+dat1 = dat.iloc[:,0:7]
+print(dat1.head)
+
+print(1)
