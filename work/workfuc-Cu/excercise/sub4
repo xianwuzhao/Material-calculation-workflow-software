@@ -1,0 +1,27 @@
+#!/bin/bash
+#  - Dr. Nuria Lopez Group -
+##########################################
+# SGE Parameters
+##########################################
+#$ -S /bin/bash
+#$ -N freq-4B2 
+#$ -cwd
+#$ -masterq c8m24.q
+#$ -pe c8m24_mpi 8 
+#$ -m ae
+#$ -M qli@iciq.es
+#$ -o o_$JOB_NAME.$JOB_ID
+#$ -e e_$JOB_NAME.$JOB_ID
+##########################################
+# Load Evironment Variables
+##########################################
+. /etc/profile.d/modules.sh
+module load vasp/5.3.3
+##########################################
+# Running Job
+##########################################
+export OMP_NUM_THREADS=1
+echo $PWD >> o_$JOB_NAME.$JOB_ID
+echo $TMP >> o_$JOB_NAME.$JOB_ID
+mpirun -np $NSLOTS vasp 
+rm CHG* WAV* 

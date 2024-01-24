@@ -1,0 +1,141 @@
+STATUS:Searching for applets
+STATUS:Creating menu items
+MSG   :Add menu Edit::New
+MSG   :Add menu Structure::Window
+MSG   :Add menu Structure::Control
+MSG   :Add menu Electronic::DOS + bands
+MSG   :Add menu Electronic::Local DOS+bands control
+MSG   :Add menu Edit::Builder
+MSG   :Add menu Database::Commit
+MSG   :Add menu Database::Query
+MSG   :Add menu Electronic::Dielectric function
+MSG   :Add menu Edit::Edit sub-Z-matrix
+MSG   :Add menu Convergence::Energy
+MSG   :Add menu Structure::Export
+MSG   :Add menu Convergence::Forces
+MSG   :Add menu Edit::Info
+MSG   :Add menu Electronic::View k-points
+MSG   :Add menu Structure::Lattice
+MSG   :Add menu Electronic::Local potential
+MSG   :Add menu Structure::Measure
+MSG   :Add menu Edit::Move atoms
+MSG   :Add menu Edit::Multiply cell
+MSG   :Add menu Edit::Rotate atoms
+MSG   :Add menu Electronic::STM Window
+MSG   :Add menu Electronic::STM Control
+MSG   :Add menu Convergence::Selected forces
+MSG   :Add menu Structure::Show/hide atoms
+MSG   :Add menu Structure::Show (old)
+MSG   :Add menu MD::VAC
+STATUS:Initializing toolbar buttons
+STATUS:Initializing selection applet
+STATUS:loading setup
+ERROR : Can not read setup.xml
+STATUS:setup loaded
+STATUS:reading vasprun.xml
+STATUS:reading vasprun.xml OK
+STATUS:OK
+STATUS:reading graph locpot from /usr/share/p4vasp/data/graphs/locpot.agr
+STATUS:update local potentail data
+MSG   :read LOCPOT from /home/bigbro/teklahome/test/cu/cu111/workfunction/LVHAR/15/LOCPOT
+STATUS:Reading Chgcar headder
+STATUS:Reading gridpoint 1858/175616
+STATUS:Reading gridpoint 3716/175616
+STATUS:Reading gridpoint 5574/175616
+STATUS:Reading gridpoint 7432/175616
+STATUS:Reading gridpoint 9290/175616
+STATUS:Reading gridpoint 11148/175616
+STATUS:Reading gridpoint 13006/175616
+STATUS:Reading gridpoint 14864/175616
+STATUS:Reading gridpoint 16722/175616
+STATUS:Reading gridpoint 18580/175616
+STATUS:Reading gridpoint 20438/175616
+STATUS:Reading gridpoint 22296/175616
+STATUS:Reading gridpoint 24154/175616
+STATUS:Reading gridpoint 26012/175616
+STATUS:Reading gridpoint 27870/175616
+STATUS:Reading gridpoint 29728/175616
+STATUS:Reading gridpoint 31586/175616
+STATUS:Reading gridpoint 33444/175616
+STATUS:Reading gridpoint 35302/175616
+STATUS:Reading gridpoint 37160/175616
+STATUS:Reading gridpoint 39018/175616
+STATUS:Reading gridpoint 40876/175616
+STATUS:Reading gridpoint 42734/175616
+STATUS:Reading gridpoint 44592/175616
+STATUS:Reading gridpoint 46450/175616
+STATUS:Reading gridpoint 48308/175616
+STATUS:Reading gridpoint 50166/175616
+STATUS:Reading gridpoint 52024/175616
+STATUS:Reading gridpoint 53882/175616
+STATUS:Reading gridpoint 55740/175616
+STATUS:Reading gridpoint 57598/175616
+STATUS:Reading gridpoint 59456/175616
+STATUS:Reading gridpoint 61314/175616
+STATUS:Reading gridpoint 63172/175616
+STATUS:Reading gridpoint 65030/175616
+STATUS:Reading gridpoint 66888/175616
+STATUS:Reading gridpoint 68746/175616
+STATUS:Reading gridpoint 70604/175616
+STATUS:Reading gridpoint 72462/175616
+STATUS:Reading gridpoint 74320/175616
+STATUS:Reading gridpoint 76178/175616
+STATUS:Reading gridpoint 78036/175616
+STATUS:Reading gridpoint 79894/175616
+STATUS:Reading gridpoint 81752/175616
+STATUS:Reading gridpoint 83610/175616
+STATUS:Reading gridpoint 85468/175616
+STATUS:Reading gridpoint 87326/175616
+STATUS:Reading gridpoint 89184/175616
+STATUS:Reading gridpoint 91042/175616
+STATUS:Reading gridpoint 92900/175616
+STATUS:Reading gridpoint 94758/175616
+STATUS:Reading gridpoint 96616/175616
+STATUS:Reading gridpoint 98474/175616
+STATUS:Reading gridpoint 100332/175616
+STATUS:Reading gridpoint 102190/175616
+STATUS:Reading gridpoint 104048/175616
+STATUS:Reading gridpoint 105906/175616
+STATUS:Reading gridpoint 107764/175616
+STATUS:Reading gridpoint 109622/175616
+STATUS:Reading gridpoint 111480/175616
+STATUS:Reading gridpoint 113338/175616
+STATUS:Reading gridpoint 115196/175616
+STATUS:Reading gridpoint 117054/175616
+STATUS:Reading gridpoint 118912/175616
+STATUS:Reading gridpoint 120770/175616
+STATUS:Reading gridpoint 122628/175616
+STATUS:Reading gridpoint 124486/175616
+STATUS:Reading gridpoint 126344/175616
+STATUS:Reading gridpoint 128202/175616
+STATUS:Reading gridpoint 130060/175616
+STATUS:Reading gridpoint 131918/175616
+STATUS:Reading gridpoint 133776/175616
+STATUS:Reading gridpoint 135634/175616
+STATUS:Reading gridpoint 137492/175616
+STATUS:Reading gridpoint 139350/175616
+STATUS:Reading gridpoint 141208/175616
+STATUS:Reading gridpoint 143066/175616
+STATUS:Reading gridpoint 144924/175616
+STATUS:Reading gridpoint 146782/175616
+STATUS:Reading gridpoint 148640/175616
+STATUS:Reading gridpoint 150498/175616
+STATUS:Reading gridpoint 152356/175616
+STATUS:Reading gridpoint 154214/175616
+STATUS:Reading gridpoint 156072/175616
+STATUS:Reading gridpoint 157930/175616
+STATUS:Reading gridpoint 159788/175616
+STATUS:Reading gridpoint 161646/175616
+STATUS:Reading gridpoint 163504/175616
+STATUS:Reading gridpoint 165362/175616
+STATUS:Reading gridpoint 167220/175616
+STATUS:Reading gridpoint 169078/175616
+STATUS:Reading gridpoint 170936/175616
+STATUS:Reading gridpoint 172794/175616
+STATUS:Reading gridpoint 174652/175616
+STATUS:Chgcar read OK.
+STATUS:Getting plane statistics
+STATUS:OK
+STATUS:update local potentail data
+STATUS:Getting plane statistics
+STATUS:OK
